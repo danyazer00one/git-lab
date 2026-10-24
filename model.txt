@@ -3,3 +3,5 @@ Base line 2
 Line 3 from maaster (C3)
 Line 3 from test (C4)
 Line 4 from test (C5)
+Дополнительное изменение 1
+Дополнительное изменение 2
