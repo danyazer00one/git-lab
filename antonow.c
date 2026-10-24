@@ -7,7 +7,7 @@ int main() {
     printf("Введите два целых числа: ");
     scanf("%d %d", &a, &b);
 
-    printf("Сумма: %d\n", a+b);
+    printf("Разность: %d\n", a - b);
 
     return 0;
 }
